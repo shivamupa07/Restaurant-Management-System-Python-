@@ -50,12 +50,14 @@ def Ref():
     x=random.randint(12980, 50876)
     randomRef = str(x)
     rand.set(randomRef)
-
-    cof =float(Fries.get())
-    colfries= float(Largefries.get())
     cob= float(Burger.get())
     cofi= float(Filet.get())
     cochee= float(Cheese_burger.get())
+
+
+
+sdcsuihsdivjqwdkcl
+wkndqwjlsdv
     codr= float(Drinks.get())
 
     costoffries = cof*25
@@ -67,10 +69,10 @@ def Ref():
 
     costofmeal = "Rs.",str('%.2f'% (costoffries +  costoflargefries + costofburger + costoffilet + costofcheeseburger + costofdrinks))
     PayTax=((costoffries +  costoflargefries + costofburger + costoffilet +  costofcheeseburger + costofdrinks)*0.33)
-    Totalcost=(costoffries +  costoflargefries + costofburger + costoffilet  + costofcheeseburger + costofdrinks)
-    Ser_Charge=((costoffries +  costoflargefries + costofburger + costoffilet + costofcheeseburger + costofdrinks)/99)
-    Service="Rs.",str('%.2f'% Ser_Charge)
-    OverAllCost="Rs.",str( PayTax + Totalcost + Ser_Charge)
+    Totalcost=(costoffries +  costoflargefries + costofburger 
+
+jfwyegufdhkwd
+uewdchsdkasc.
     PaidTax="Rs.",str('%.2f'% PayTax)
 
     Service_Charge.set(Service)
